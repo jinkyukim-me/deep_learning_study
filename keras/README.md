@@ -7,7 +7,7 @@ This repository contains my personal notes and summaries on "케라스 창시자
 |Chapter|Title|Practice|Memo|
 |:---|:---|:---|:---|
 |1.|* 딥러닝이란 무엇인가?|  |   |
-|2.|* 신경망의 수학적 구성 요소|* Basic neural network|  |
+|2.|* 신경망의 수학적 구성 요소|* [Basic neural network](https://github.com/jinkyukim-me/deep_learning_study/blob/master/keras/basic_neural_network.ipynb)|  |
 |3.|* 신경망 시작하기| | |
 |4.|* 머신러닝의 기본 요소| | |
 |5.|* 컴퓨터 비전을 위한 딥러닝| | |
