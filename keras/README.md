@@ -17,20 +17,3 @@ This repository contains my personal notes and summaries on "케라스 창시자
 |9.|* 결론| | |
 
 
-## MNIST MLP 1
-<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/basic_MNIST_MLP.JPG" width="70%"></p>
-
-## MNIST MLP 2
-<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model1.JPG" width="90%"></p>
-
-### Vanishing Gradient - Sigmoid
-<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/vanishig%20gradient.png" width="90%"></p>
-
-## MNIST MLP 3
-<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model2.JPG" width="90%"></p>
-
-## MLP Model for CIFAR10
-<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MLP_Model_for_CIFAR10.JPG" width="90%"></p>
-
-## Next steps
-I need to focus my attention on the practical works.
